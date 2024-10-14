@@ -1,6 +1,6 @@
 ### Data Analysis on the World Happiness Report 2023
 
-Group project as per cirriculum for UCSB's course PSTAT 100: Data Science Concepts and Analysis. 
+Group project as per curriculum for UCSB's course PSTAT 100: Data Science Concepts and Analysis. 
 
 - Developed a comprehensive data analysis project applying the World Happiness Report 2023 dataset, focusing on trends in
 happiness and well-being metrics across 160 countries from 2008 to 2022.
@@ -8,10 +8,9 @@ happiness and well-being metrics across 160 countries from 2008 to 2022.
 - Employed extensive use of Pandas for sophisticated data manipulation procedures. Addressed strategic imputation and data filtering
 to ensure data integrity and reliability.
 
-- Conducted thorough EDA to uncover trends, patterns, relationships, and deepen domain knowledge on high-dimension qualitative
-data. Executed various statistical methods and visualizations to analyze various contributing factors.
+- Conducted thorough EDA to uncover trends, patterns, and relationships, to deepen domain knowledge of high-dimension qualitative data. Executed various statistical methods and visualizations to analyze various contributing factors.
 
-- Designed and implemented a suite of insightful data visualizations using Altair and Matplotlib. Showcasing expansive use of plots to
+- Designed and implemented a suite of insightful data visualizations using Altair and Matplotlib. Showcasing the expansive use of plots to
 communicate findings and trends in the data.
 
 - Applied statistical techniques and regression models to explore correlations and changes, leveraging Principal Component Analysis
